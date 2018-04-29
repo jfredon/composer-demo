@@ -1,0 +1,7 @@
+{
+  "name": "jules/composer-demo",
+  "description": "A short demonstration for library creation",
+  "autoload": {
+    "psr-4": {"tips\\": "src/tips"}
+  }
+}

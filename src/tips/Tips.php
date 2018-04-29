@@ -7,7 +7,7 @@ class Tips
     private static $tips = [
         'Bien tester son code !',
         'Un couplage faible sera toujours préférable à un couplage fort !',
-        'Le formation de l’ALIPTIC est super !',
+        'La formation de l’ALIPTIC est super !',
     ];
 
     /**
